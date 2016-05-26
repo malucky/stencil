@@ -1,5 +1,20 @@
 [
   {
+    "name": "Unified Checkout",
+    "settings": [
+      {
+        "type": "color",
+        "label": "Header background color",
+        "id": "unifiedCheckout-headerColor"
+      },
+      {
+        "type": "color",
+        "label": "Body background color",
+        "id": "unifiedCheckout-bodyColor"
+      }
+    ]
+  },
+  {
     "name": "Global",
     "settings": [
       {
